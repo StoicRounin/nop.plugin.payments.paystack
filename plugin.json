@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "Paystack Standard",
+  "SystemName": "Payments.PaystackStandard",
+  "Version": "1.3",
+  "SupportedVersions": [ "4.20" ],
+  "Author": "Emmanuel Amoako",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.PaystackStandard.dll",
+  "Description": "This plugin allows paying with Paystack Standard"
+}
